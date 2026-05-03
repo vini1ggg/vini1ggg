@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 - Currently learning: <br>- Java<br>- HTML/ CSS (Front-end Developer)<br>- AI in digital transformations<br><br>🌐 - Social Medias:<br>instagram - @vini.hung3<br>linkedin - Vinicius Shuo Yan Hung<br>email - vinihung3@gmail.com</p>
+<p align="left">📚 - Currently learning: <br>- Java<br>- HTML/ CSS (Front-end Developer)<br>- AI in digital transformations<br>- PL/SQL: Oracle database<br><br>🌐 - Social Medias:<br>instagram - @vini.hung3<br>linkedin - Vinicius Shuo Yan Hung<br>email - vinihung3@gmail.com</p>
 
 ###
 
